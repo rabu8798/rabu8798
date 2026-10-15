@@ -20,7 +20,9 @@
 ### 🛠️ Toolkit
 
 **Data:** SQL (MySQL, SQL Server) · Epic Clarity data model (self-built lab) · Python · data cleaning & reporting
+
 **Automation:** n8n · Make.com · Zapier · UiPath
+
 **Domain:** Hospital operations · building automation / SCADA · healthcare data (Synthea, LOINC, SNOMED)
 
 ### 🎓 Learning & credentials
